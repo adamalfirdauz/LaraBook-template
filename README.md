@@ -43,4 +43,6 @@ Repository ini hanya mengandung template, silahkan clone atau download sebagai z
 
 
 &copy; [CodePanda](https://codepanda.web.id)
+
+
 Writed by Adam Firdaus.
