@@ -43,4 +43,4 @@ Repository ini hanya mengandung template, silahkan clone atau download sebagai z
 
 
 
-# Powered by [Codepanda](https://codepanda.web.id) with &hearts;
+# Powered by [Codepanda](https://codepanda.web.id) with &hearts; and &#9786;
