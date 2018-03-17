@@ -41,5 +41,6 @@ Repository ini hanya mengandung template, silahkan clone atau download sebagai z
 # Repository Utama
 - LaraBook ([Source](https://github.com/adamalfirdauz/LaraBook))
 
-Writed by Adam Firdaus
-[CodePanda](https://codepanda.web.id) &copy; 
+
+&copy; [CodePanda](https://codepanda.web.id)
+Writed by Adam Firdaus.
